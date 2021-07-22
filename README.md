@@ -1,2 +1,2 @@
-# MiPrimerGit
-Este es mi primer Git
+# MiPrimePush
+Este es mi primer Push
